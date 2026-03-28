@@ -31,7 +31,6 @@ ComfyUI/models/
 ComfyUI/output/
 ComfyUI/input/
 ComfyUI/temp/
-ComfyUI/custom_nodes/
 *.safetensors
 *.pt
 *.pth
