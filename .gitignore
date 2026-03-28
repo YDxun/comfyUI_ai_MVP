@@ -26,16 +26,6 @@ venv/
 ENV/
 env/
 
-# ComfyUI specific
-ComfyUI/models/
-ComfyUI/output/
-ComfyUI/input/
-ComfyUI/temp/
-*.safetensors
-*.pt
-*.pth
-*.ckpt
-
 # IDE
 .vscode/
 .idea/
