@@ -50,3 +50,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# SSH keys
+ssh_ydx
+ssh_ydx.pub
